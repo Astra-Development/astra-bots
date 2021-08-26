@@ -24,7 +24,7 @@ Please follow these simple rules before reporting an issue:
 Choose the template that best describes your problem/report:
 
 1. [Report a Bug/Issue]
-(https://github.com/astra-bots/issues/issues/new)
+(https://github.com/Astra-Development/astra-bots/issues/new)
 
 ## Rating a Report or a Comment
 
