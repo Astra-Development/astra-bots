@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/846824301676068874/862653103505276928/circle-cropped.png" width="300">
+</p>
+<p align="center">
+  <b>Welcome to Astra Bot List</b>
+</p>
+<p align="center">
+    <br/><br/>
+    <a href="https://discord.gg/sQQFSnQhdt" target="_blank">
+        <img src="https://img.shields.io/discord/793149744847257600?label=SUPPORT%20SERVER&style=for-the-badge" alt="Discord" />
+    </a>
+</p>
+<hr>
+
 # Discord Bot List and Server List Problems
 
 Thank you for informing us of any problems you are experiencing. You are assisting us and the community in making the Discord Bot List (and the server list) a better place for everyone by doing so.
