@@ -32,6 +32,7 @@ Choose the template that best describes your problem/report:
 
 ## Rating a Report or a Comment
 
+
 We appreciate the community's collaboration and any feedback you provide, whether it's as simple as an upvote or downvote on issues and comments.
 If you want to give feedback, use :thumbsup: or :thumbsdown: and/or comment with your thoughts/suggestions on the issue.
 
